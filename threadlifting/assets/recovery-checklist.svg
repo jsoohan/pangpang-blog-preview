@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">실리프팅 회복 체크리스트</title>
+  <desc id="desc">실리프팅 후 회복 과정에서 확인할 항목을 카드형으로 정리한 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3f6f4"/>
+      <stop offset=".52" stop-color="#fffdf9"/>
+      <stop offset="1" stop-color="#f8eee8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#28384a" flood-opacity=".12"/>
+    </filter>
+  </defs>
+  <rect width="1100" height="760" fill="url(#bg)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif">
+    <text x="82" y="92" fill="#28384a" font-size="38" font-weight="900">회복은 체크하면서 지나가는 과정입니다</text>
+    <text x="82" y="136" fill="#666b73" font-size="23">증상이 지속되거나 악화되면 시술 의료진의 진찰이 필요합니다.</text>
+  </g>
+  <g transform="translate(82 196)" filter="url(#shadow)">
+    <rect x="0" y="0" width="286" height="190" rx="20" fill="#ffffff"/>
+    <circle cx="58" cy="62" r="28" fill="#f6d8c8"/>
+    <path d="M45 63 L55 73 L75 48" fill="none" stroke="#d78787" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="36" y="124" fill="#28384a" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" font-size="29" font-weight="900">부기·멍</text>
+    <text x="36" y="159" fill="#666b73" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" font-size="20">초기 회복에서 흔함</text>
+  </g>
+  <g transform="translate(407 196)" filter="url(#shadow)">
+    <rect x="0" y="0" width="286" height="190" rx="20" fill="#ffffff"/>
+    <circle cx="58" cy="62" r="28" fill="#f1d59e"/>
+    <path d="M43 66 C55 49 70 49 82 66" fill="none" stroke="#b9975b" stroke-width="8" stroke-linecap="round"/>
+    <text x="36" y="124" fill="#28384a" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" font-size="29" font-weight="900">딤플</text>
+    <text x="36" y="159" fill="#666b73" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" font-size="20">함몰감 관찰 가능</text>
+  </g>
+  <g transform="translate(732 196)" filter="url(#shadow)">
+    <rect x="0" y="0" width="286" height="190" rx="20" fill="#ffffff"/>
+    <circle cx="58" cy="62" r="28" fill="#c9d9ce"/>
+    <path d="M46 76 L76 46 M46 46 L76 76" fill="none" stroke="#8eb9a5" stroke-width="8" stroke-linecap="round"/>
+    <text x="36" y="124" fill="#28384a" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" font-size="29" font-weight="900">과도한 자극</text>
+    <text x="36" y="159" fill="#666b73" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" font-size="20">마사지·사우나 주의</text>
+  </g>
+  <g transform="translate(162 456)">
+    <rect x="0" y="0" width="776" height="138" rx="22" fill="#28384a"/>
+    <g fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif">
+      <text x="44" y="55" font-size="28" font-weight="900">기억할 문장</text>
+      <text x="44" y="96" font-size="23" opacity=".82">실리프팅은 영구 시술이 아니며, 효과와 회복은 개인차가 있습니다.</text>
+    </g>
+  </g>
+  <path d="M82 650 H1018" stroke="#d9dde3" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif" fill="#666b73" font-size="20">
+    <text x="82" y="700">의료법 준수형 정보 이미지 · 효과 보장/전후 비교 표현 제외</text>
+  </g>
+</svg>
